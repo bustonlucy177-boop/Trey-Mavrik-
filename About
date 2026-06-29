@@ -1,0 +1,192 @@
+<!-- ===================================================== -->
+<!-- ADD NEW MUSIC BELOW                                   -->
+<!-- Copy one music card and edit it whenever you release. -->
+<!-- ===================================================== -->
+
+<div class="music-card">
+
+    <!-- Album Cover -->
+    <img src="images/albums/your-cover.jpg" alt="Album Cover">
+
+    <!-- Song or Album Title -->
+    <h2>YOUR SONG OR ALBUM TITLE</h2>
+
+    <!-- Release Date -->
+    <p><strong>Release Date:</strong> DD Month YYYY</p>
+
+    <!-- Description -->
+    <p>Write your description here.</p>
+
+    <!-- Streaming Links -->
+    <a href="#">Spotify</a>
+    <a href="#">Apple Music</a>
+    <a href="#">Audiomack</a>
+    <a href="#">Boomplay</a>
+    <a href="#">YouTube</a>
+    <a href="#">Amazon Music</a>
+    <a href="#">Deezer</a>
+    <a href="#">TIDAL</a>
+    <a href="#">Bandcamp</a>
+    <a href="#">SoundCloud</a>
+    <a href="#">Anghami</a>
+    <a href="#">Shazam</a>
+
+</div>
+
+<!-- Copy this entire block every time you release new music. -->
+
+
+
+<!-- ===================================================== -->
+<!-- ADD NEW VIDEO BELOW                                  -->
+<!-- ===================================================== -->
+
+<div class="video-card">
+
+    <img src="images/videos/video-thumbnail.jpg" alt="Video">
+
+    <h2>VIDEO TITLE</h2>
+
+    <p>Video Description</p>
+
+    <a href="#">YouTube Link</a>
+
+</div>
+
+
+
+<!-- ===================================================== -->
+<!-- ADD GALLERY PHOTOS BELOW                             -->
+<!-- ===================================================== -->
+
+<div class="gallery-card">
+
+    <img src="images/gallery/photo.jpg" alt="Gallery Photo">
+
+</div>
+
+
+
+<!-- ===================================================== -->
+<!-- ADD NEWS BELOW                                       -->
+<!-- ===================================================== -->
+
+<div class="news-card">
+
+    <h2>NEWS TITLE</h2>
+
+    <p>Write your news here.</p>
+
+</div>
+
+
+
+<!-- ===================================================== -->
+<!-- ADD TOUR DATES BELOW                                 -->
+<!-- ===================================================== -->
+
+<div class="tour-card">
+
+    <h2>Concert Name</h2>
+
+    <p>City, Country</p>
+
+    <p>Date</p>
+
+    <a href="#">Ticket Link</a>
+
+</div>
+
+
+
+<!-- ===================================================== -->
+<!-- EDIT YOUR BIOGRAPHY BELOW                            -->
+<!-- ===================================================== -->
+
+<section id="biography">
+
+<h2>Biography</h2>
+
+<p>
+
+Write your biography here.
+
+</p>
+
+</section>
+
+
+
+<!-- ===================================================== -->
+<!-- EDIT YOUR MISSION BELOW                              -->
+<!-- ===================================================== -->
+
+<section>
+
+<h2>Mission</h2>
+
+<p>
+
+Write your mission here.
+
+</p>
+
+</section>
+
+
+
+<!-- ===================================================== -->
+<!-- EDIT YOUR VISION BELOW                               -->
+<!-- ===================================================== -->
+
+<section>
+
+<h2>Vision</h2>
+
+<p>
+
+Write your vision here.
+
+</p>
+
+</section>
+
+
+
+<!-- ===================================================== -->
+<!-- EDIT YOUR LEGACY BELOW                               -->
+<!-- ===================================================== -->
+
+<section>
+
+<h2>Legacy</h2>
+
+<p>
+
+Write your legacy here.
+
+</p>
+
+</section>
+
+
+
+<!-- ===================================================== -->
+<!-- CONTACT FORM                                         -->
+<!-- ===================================================== -->
+
+<form>
+
+<input type="text" placeholder="Your Name">
+
+<input type="email" placeholder="Your Email">
+
+<textarea placeholder="Your Message"></textarea>
+
+<button type="submit">
+
+Send Message
+
+</button>
+
+</form>
