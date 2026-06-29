@@ -1,0 +1,165 @@
+<!-- ========================= -->
+<!-- VIDEOS -->
+<!-- ========================= -->
+
+<section id="videos">
+
+<h2>Official Videos</h2>
+
+<!-- ADD NEW VIDEO BELOW -->
+
+<div class="video-card">
+
+<img src="images/video-thumbnail.jpg" alt="Video Thumbnail">
+
+<h3>Official Music Video</h3>
+
+<p>Release Date</p>
+
+<p>Write a short description here.</p>
+
+<a href="#">Watch on YouTube</a>
+
+</div>
+
+<!-- COPY THE CARD ABOVE TO ADD MORE VIDEOS -->
+
+</section>
+
+
+<!-- ========================= -->
+<!-- GALLERY -->
+<!-- ========================= -->
+
+<section id="gallery">
+
+<h2>Gallery</h2>
+
+<!-- ADD NEW PHOTOS BELOW -->
+
+<div class="gallery-card">
+
+<img src="images/gallery/photo1.jpg" alt="Gallery Photo">
+
+<p>Artist Photo</p>
+
+</div>
+
+<div class="gallery-card">
+
+<img src="images/gallery/photo2.jpg" alt="Studio Session">
+
+<p>Studio Session</p>
+
+</div>
+
+<div class="gallery-card">
+
+<img src="images/gallery/photo3.jpg" alt="Concert">
+
+<p>Live Performance</p>
+
+</div>
+
+<!-- COPY THESE CARDS TO ADD MORE PHOTOS -->
+
+</section>
+
+
+<!-- ========================= -->
+<!-- NEWS & PRESS -->
+<!-- ========================= -->
+
+<section id="news">
+
+<h2>News & Press</h2>
+
+<!-- WRITE YOUR STORIES BELOW -->
+
+<article class="news-card">
+
+<img src="images/news/news1.jpg" alt="News">
+
+<h3>Headline Goes Here</h3>
+
+<p>Date Published</p>
+
+<p>
+
+Write your news, magazine story, interview,
+album announcement, personal story or press
+release here.
+
+</p>
+
+<a href="#">Read More</a>
+
+</article>
+
+<!-- COPY THE ARTICLE ABOVE TO ADD MORE NEWS -->
+
+</section>
+
+
+<!-- ========================= -->
+<!-- STORE -->
+<!-- ========================= -->
+
+<section id="store">
+
+<h2>Official Store</h2>
+
+<!-- ADD PRODUCTS BELOW -->
+
+<div class="product-card">
+
+<img src="images/store/hoodie.jpg" alt="Hoodie">
+
+<h3>Official Hoodie</h3>
+
+<p>$60</p>
+
+<button>Buy Now</button>
+
+</div>
+
+<div class="product-card">
+
+<img src="images/store/tshirt.jpg" alt="T-Shirt">
+
+<h3>Official T-Shirt</h3>
+
+<p>$35</p>
+
+<button>Buy Now</button>
+
+</div>
+
+<div class="product-card">
+
+<img src="images/store/cap.jpg" alt="Cap">
+
+<h3>Official Cap</h3>
+
+<p>$30</p>
+
+<button>Buy Now</button>
+
+</div>
+
+<div class="product-card">
+
+<img src="images/store/poster.jpg" alt="Poster">
+
+<h3>Official Poster</h3>
+
+<p>$20</p>
+
+<button>Buy Now</button>
+
+</div>
+
+<!-- COPY A PRODUCT CARD TO ADD CDS, VINYL,
+PHONE CASES OR DIGITAL DOWNLOADS -->
+
+</section>
