@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+content="width=device-width, initial-scale=1.0">
+
+<title>Trey Mavrik | Official Website</title>
+
+<meta name="description"
+content="Official website of Trey Mavrik. Discover music, albums, videos, news, tour dates, gallery and more.">
+
+<meta name="keywords"
+content="Trey Mavrik, Official Website, R&B, Pop, Indie Pop, Trap, Music Artist">
+
+<meta name="author"
+content="Trey Mavrik">
+
+<link rel="stylesheet"
+href="css/style.css">
+
+<link rel="preconnect"
+href="https://fonts.googleapis.com">
+
+<link rel="preconnect"
+href="https://fonts.gstatic.com"
+crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;700&family=Inter:wght@300;400;500;600;700&display=swap"
+rel="stylesheet">
+
+</head>
+
+<body>
+
+<header>
+
+<nav class="navbar">
+
+<div class="logo">
+
+TREY MAVRIK
+
+</div>
+
+<ul>
+
+<li><a href="index.html">Home</a></li>
+
+<li><a href="about.html">About</a></li>
+
+<li><a href="music.html">Music</a></li>
+
+<li><a href="albums.html">Albums</a></li>
+
+<li><a href="videos.html">Videos</a></li>
+
+<li><a href="gallery.html">Gallery</a></li>
+
+<li><a href="tour.html">Tour</a></li>
+
+<li><a href="news.html">News</a></li>
+
+<li><a href="press-kit.html">Press Kit</a></li>
+
+<li><a href="contact.html">Contact</a></li>
+
+</ul>
+
+</nav>
+
+</header>
+
+<section class="hero">
+
+<img src="images/banner.jpg"
+alt="Trey Mavrik Banner"
+class="hero-banner">
+
+<div class="hero-overlay"></div>
+
+<div class="hero-content">
+
+<img src="images/profile.jpg"
+alt="Trey Mavrik"
+class="artist-photo">
+
+<h1>
+
+TREY MAVRIK
+
+</h1>
+
+<p class="genre">
+
+R&B • Pop • Indie Pop • Trap
+
+</p>
+
+<p class="bio">
+
+Independent recording artist blending emotion, faith and storytelling through music. Every song is created to inspire hope, encourage healing and remind listeners that they are never alone.
+
+</p>
+
+<div class="buttons">
+
+<a href="music.html"
+class="listen-btn">
+
+Listen Now
+
+</a>
+
+<a href="about.html"
+class="story-btn">
+
+My Story
+
+</a>
+
+</div>
+
+</div>
+
+</section>
+
+<section class="mission">
+
+<h2>
+
+My Mission
+
+</h2>
+
+<p>
+
+Music is more than entertainment.
+
+It is healing.
+
+It is hope.
+
+It is love.
+
+My mission is to create timeless music that speaks to broken hearts, strengthens faith, encourages resilience, and reminds people that every struggle has purpose. Through every lyric, I want listeners to find comfort, courage, and a reason to keep moving forward.
+
+</p>
+
+</section>
